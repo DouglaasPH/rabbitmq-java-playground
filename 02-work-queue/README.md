@@ -28,7 +28,7 @@ Segundo projeto da série de estudos práticos de mensageria com RabbitMQ. Aqui 
 
 ---
 
-## 🗂️ Estrutura do projeto
+## Estrutura do projeto
 
 ```
 projeto-2-work-queue/
